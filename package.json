@@ -1,0 +1,24 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanGaray99/curso-asincronismo-javascript-platzi.git"
+  },
+  "keywords": [
+    "asincronismo",
+    "javascript"
+  ],
+  "author": "Bryan Garay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BryanGaray99/curso-asincronismo-javascript-platzi/issues"
+  },
+  "homepage": "https://github.com/BryanGaray99/curso-asincronismo-javascript-platzi#readme",
+  "type": "module"
+}
