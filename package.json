@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/xmlhttp.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,9 @@
     "url": "https://github.com/BryanGaray99/curso-asincronismo-javascript-platzi/issues"
   },
   "homepage": "https://github.com/BryanGaray99/curso-asincronismo-javascript-platzi#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "xmlhttprequest": "^1.8.0"
+  },
   "type": "module"
 }
